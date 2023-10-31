@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #68788C;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;    
+    &:link {
+        color: inherit;
+    }
+
+    &:visited {
+        color: inherit;
+    }
+}
