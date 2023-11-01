@@ -1,0 +1,27 @@
+#content {
+    max-width: 1200px;
+    margin: auto;
+    padding: 90px;
+    color: #fff;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 200px;
+}
+
+.content-box {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    border: 2px solid #fff;
+    border-radius: 10px;
+}
+
+.content-box-text {
+    max-width: 490px;
+    text-align: justify;
+}
+
+.content-box-illustration {
+    max-width: 490px;
+}
